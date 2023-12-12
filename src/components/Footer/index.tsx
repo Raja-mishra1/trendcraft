@@ -90,16 +90,13 @@ const Footer = ({ t }: any) => {
             <Col lg={8} md={8} sm={12} xs={12}>
               <Title>{t("Company")}</Title>
               <Large left="true" to="/">
-                {t("About")}
+                {t("Trends")}
               </Large>
               <Large left="true" to="/">
-                {t("Blog")}
+                {t("Style")}
               </Large>
               <Large left="true" to="/">
-                {t("Press")}
-              </Large>
-              <Large left="true" to="/">
-                {t("Careers & Culture")}
+                {t("Fashion Pack")}
               </Large>
             </Col>
             <Col lg={6} md={6} sm={12} xs={12}>
